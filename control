@@ -1,0 +1,8 @@
+Package: com.daveapps.watchtools
+Name: watchtools
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Dave van Wijk
+Author: Dave van Wijk
+Section: Utilities
